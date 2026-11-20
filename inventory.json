@@ -1,0 +1,12 @@
+{
+    "P101": {
+        "name": "Notebook",
+        "price": 50.0,
+        "qty": 3
+    },
+    "102": {
+        "name": "Pen",
+        "price": 5.0,
+        "qty": 8
+    }
+}

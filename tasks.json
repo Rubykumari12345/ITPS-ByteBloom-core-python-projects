@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "submit internship project",
+        "prio": "Higt",
+        "due": "2026-11-20",
+        "status": "Completed"
+    },
+    {
+        "id": 2,
+        "title": "submit internship project",
+        "prio": "High",
+        "due": "2026-11-20",
+        "status": "Pending"
+    }
+]
